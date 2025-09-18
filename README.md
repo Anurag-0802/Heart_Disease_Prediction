@@ -41,10 +41,11 @@ Clone this repo and install dependencies:
 git clone https://github.com/Anurag-0802/Heart_Disease_Prediction.git
 cd heart-disease-prediction
 pip install -r requirements.txt
-
-📬 Contact
-
-👩‍💻 Author: Anurag Sharma
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag080205/)
-[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](coder080205@gmail.com)
 ```
+
+## 📬 Contact
+
+👨‍💻 Author: Anurag Sharma
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag080205/)  
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:coder080205@gmail.com)
