@@ -45,6 +45,6 @@ pip install -r requirements.txt
 📬 Contact
 
 👩‍💻 Author: Anurag Sharma
-🔗 [LinkedIn](https://www.linkedin.com/in/anurag080205/)
- | 📧 [Email](coder080205@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag080205/)
+[![Gmail](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](coder080205@gmail.com)
 ```
